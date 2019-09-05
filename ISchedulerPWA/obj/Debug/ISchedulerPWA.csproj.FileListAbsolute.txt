@@ -1,0 +1,6 @@
+C:\Users\Bishal\Documents\Visual Studio 2013\Projects\ISchedulerPWA\ISchedulerPWA\bin\ISchedulerPWA.dll.config
+C:\Users\Bishal\Documents\Visual Studio 2013\Projects\ISchedulerPWA\ISchedulerPWA\bin\ISchedulerPWA.dll
+C:\Users\Bishal\Documents\Visual Studio 2013\Projects\ISchedulerPWA\ISchedulerPWA\bin\ISchedulerPWA.pdb
+C:\Users\Bishal\Documents\Visual Studio 2013\Projects\ISchedulerPWA\ISchedulerPWA\obj\Debug\ISchedulerPWA.dll
+C:\Users\Bishal\Documents\Visual Studio 2013\Projects\ISchedulerPWA\ISchedulerPWA\obj\Debug\ISchedulerPWA.pdb
+C:\Users\Bishal\Documents\Visual Studio 2013\Projects\ISchedulerPWA\ISchedulerPWA\obj\Debug\ISchedulerPWA.csprojResolveAssemblyReference.cache
